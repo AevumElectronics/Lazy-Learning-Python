@@ -1,7 +1,5 @@
 #!/usr/bin/python -tt
 
-
-
 # Gather our code in a main() function
 def main():
 
@@ -10,7 +8,7 @@ def main():
 
     print('What is your name?')  # ask for their name
     myName = input()
-    # myName is a variable we create for storing out input
+    # myName is a variable we create for storing out input.
     # input() is the function that we use to take information from the terminal
 
     # when we write our name in the terminal, the string gets captured by our function input()
@@ -28,7 +26,6 @@ def main():
     print('You will be ' + str(int(myAge) + 1) + ' in a year.')
     # int() set the variable as an integer
     # if you try to put a string instead of a number you will get an error
-
 
 
 # Standard boilerplate to call the main() function to begin the program.
