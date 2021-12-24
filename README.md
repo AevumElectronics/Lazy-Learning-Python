@@ -16,3 +16,14 @@ First Steps Learning Python
 * if()
 * else
 
+:large_blue_circle: [While](03-while.py)
+
+* while
+
+:large_blue_circle: [While-Break](04-while-break.py)
+
+* while
+* break
+* .upper()
+* .lower()
+
