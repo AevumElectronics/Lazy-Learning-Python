@@ -18,7 +18,7 @@ def main():
         name = input()  # we change the name, so we have a chance of getting out of the loop.
 
     print('Oh!...hi ' + name.lower())
-# name.lower() returns a string where all characters are in lower-case.
+    # name.lower() returns a string where all characters are in lower-case.
 
 
 # Standard boilerplate to call the main() function to begin the program.
