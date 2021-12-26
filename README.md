@@ -42,10 +42,15 @@ First Steps Learning Python
 * random.randint(a,b)
 * sys.exit()
 
-:large_blue_circle: [Sys Exit](08-def-statement.py)
+:large_blue_circle: [Def Statement](08-def-statement.py)
 
 * def function()
 * def function(parameter)
 * if - elif
 * return 
+
+:large_blue_circle: [Try Except](09-try-except.py)
+
+* try
+* except
 
