@@ -41,3 +41,11 @@ First Steps Learning Python
 * import
 * random.randint(a,b)
 * sys.exit()
+
+:large_blue_circle: [Sys Exit](08-def-statement.py)
+
+* def function()
+* def function(parameter)
+* if - elif
+* return 
+
