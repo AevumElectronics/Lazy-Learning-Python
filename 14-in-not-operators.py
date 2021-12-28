@@ -12,9 +12,9 @@ def main():
     print(vector)
     print("Enter an item name and see if is on the list")
     name = input()
-    if name in vector:
+    if name in vector:  # the statement is true only if the element is on the list
         print("The " + str(name) + " is already on the list")
-    elif name not in vector:
+    elif name not in vector:    # the statement is true only if the element is NOT on the list
         print("The " + str(name) + " is not on the list")
 
 
