@@ -64,7 +64,7 @@ First Steps Learning Python
 
 :large_blue_circle: [List Slicing IndexJump](12-list-slicing-indexjump.py)
 
-* vector[ initial: end :indexjump ]
+* vector[ initial: end : indexjump ]
 
 :large_blue_circle: [List Negative Index](13-list-negative-index.py)
 
