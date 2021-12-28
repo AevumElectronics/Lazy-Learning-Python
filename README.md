@@ -54,3 +54,31 @@ First Steps Learning Python
 * try
 * except
 
+:large_blue_circle: [List](10-list.py)
+
+* vector[]
+
+:large_blue_circle: [List Slicing](11-list-slicing.py)
+
+* vector[initial:end]
+
+:large_blue_circle: [List Slicing IndexJump](12-list-slicing-indexjump.py)
+
+* vector[initial:end:indexjump]
+
+:large_blue_circle: [List Negative Index](13-list-negative-index.py)
+
+* vector [-i:]
+
+:large_blue_circle: [In / Not In Operators](14-in-not-operators.py)
+
+* in operator
+* not in operator
+
+:large_blue_circle: [Grocery List - Example](15-grocery-list.py)
+
+* in operator
+* not in operator
+* del function
+* list.index()
+* list concatenation
