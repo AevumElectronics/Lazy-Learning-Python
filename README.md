@@ -56,19 +56,19 @@ First Steps Learning Python
 
 :large_blue_circle: [List](10-list.py)
 
-* vector[]
+* vector []
 
 :large_blue_circle: [List Slicing](11-list-slicing.py)
 
-* vector[initial:end]
+* vector[ initial : end ]
 
 :large_blue_circle: [List Slicing IndexJump](12-list-slicing-indexjump.py)
 
-* vector[initial:end:indexjump]
+* vector[ initial: end :indexjump ]
 
 :large_blue_circle: [List Negative Index](13-list-negative-index.py)
 
-* vector [-i:]
+* vector [ -i: ]
 
 :large_blue_circle: [In / Not In Operators](14-in-not-operators.py)
 
