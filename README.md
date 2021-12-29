@@ -1,103 +1,62 @@
-# Lazy-Learning-Python
-First Steps Learning Python
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <title>Lazy Learning Python</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="description" content="??" />
+    <meta name="color-scheme" content="dark light" />
+    <link rel="stylesheet" href="style.css">
+  </head>
 
-<br>
 
-## Function List:
+  <body>
+<main>
 
-:large_blue_circle: [Hello World](01-hello-world.py)
+  <div class="card">
+    <img src="img/python_icon.png" alt="python icon">
+    <a href="01-hello-world.py"><h5>Hello World</h5></a>
+    <p>
+    * print() <br>
+    * input() <br>
+    * len()   <br>
+    </p>
+  </div>
 
-* print()
-* input()
-* len()
 
-:large_blue_circle: [If - Else](02-simple-if-else.py)
+  <div class="card">
+    <img src="img/python_icon.png" alt="python icon">
+    <a href="02-simple-if-else.py"><h5>If - Else</h5></a>
+    <p>
+    * if() <br>
+    * else
+    </p>
+  </div>
 
-* if()
-* else
+  <div class="card">
+    <img src="img/python_icon.png" alt="python icon">
+    <a href="03-while.py"><h5>While</h5></a>
+    <p>
+    * While
+    </p>
+  </div>
 
-:large_blue_circle: [While](03-while.py)
+  <div class="card">
+    <img src="img/python_icon.png" alt="python icon">
+    <a href="04-while-break.py"><h5>While - Break</h5></a>
+    <p>
+    * while<br>
+    * break<br>
+    * .upper()<br>
+    * .lower()
+    </p>
+  </div>
 
-* while
 
-:large_blue_circle: [While-Break](04-while-break.py)
 
-* while
-* break
-* .upper()
-* .lower()
 
-:large_blue_circle: [While-Break-Continue](05-while-break-continue.py)
-
-* break
-
-:large_blue_circle: [For](06-for.py)
-
-* range()
-* for i in range(n)
-
-:large_blue_circle: [Sys Exit](07-sys-exit.py)
-
-* import
-* random.randint(a,b)
-* sys.exit()
-
-:large_blue_circle: [Def Statement](08-def-statement.py)
-
-* def function()
-* def function(parameter)
-* if - elif
-* return 
-
-:large_blue_circle: [Try Except](09-try-except.py)
-
-* try
-* except
-
-:large_blue_circle: [List](10-list.py)
-
-* vector []
-
-:large_blue_circle: [List Slicing](11-list-slicing.py)
-
-* vector[ initial : end ]
-
-:large_blue_circle: [List Slicing IndexJump](12-list-slicing-indexjump.py)
-
-* vector[ initial: end : indexjump ]
-
-:large_blue_circle: [List Negative Index](13-list-negative-index.py)
-
-* vector [ -i: ]
-
-:large_blue_circle: [In / Not In Operators](14-in-not-operators.py)
-
-* in operator
-* not in operator
-
-:large_blue_circle: [Grocery List - Example](15-grocery-list.py)
-
-* in operator
-* not in operator
-* del function
-* list.index()
-* list concatenation
-
-:large_blue_circle: [Random Choice / Random Shuffle](16-random-choice.py)
-
-* random.choice(list)
-* random.shuffle(list)
-
-:large_blue_circle: [Index Method](18-index-method.py)
-
-* list.index(item)
-* list.append(name)
-* list.insert(index, name)
-* list.remove(name)
-
-:large_blue_circle: [Sort](19-sort.py)
-
-* list.sort()
-* list.sort(reverse=True)
-* list.reverse()
-* list.sort(key=str.lower)
+</main>
+    
+  </body>
+</html>
