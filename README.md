@@ -82,3 +82,22 @@ First Steps Learning Python
 * del function
 * list.index()
 * list concatenation
+
+:large_blue_circle: [Random Choice / Random Shuffle](16-random-choice.py)
+
+* random.choice(list)
+* random.shuffle(list)
+
+:large_blue_circle: [Index Method](18-index-method.py)
+
+* list.index(item)
+* list.append(name)
+* list.insert(index, name)
+* list.remove(name)
+
+:large_blue_circle: [Sort](19-sort.py)
+
+* list.sort()
+* list.sort(reverse=True)
+* list.reverse()
+* list.sort(key=str.lower)
